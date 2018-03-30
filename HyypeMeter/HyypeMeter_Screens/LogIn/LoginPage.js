@@ -26,6 +26,7 @@ export default class LoginPage extends Component {
 
     this.toggle = this.toggle.bind(this);
 
+
     this.state = {
       isOpen: false,
       selectedItem: 'About',    
